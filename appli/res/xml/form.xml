@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <EditTextPreference android:title="access token" android:summary="Enter the access token" android:key="access token"></EditTextPreference>
+    <EditTextPreference android:key="access token secret" android:title="access token secret" android:summary="Enter the access token secret"></EditTextPreference>
+    
+</PreferenceScreen>
